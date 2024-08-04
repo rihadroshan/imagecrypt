@@ -25,7 +25,7 @@ git clone https://github.com/rihadroshan/PRODIGY_CS_02.git
 ### Navigate into the project directory:
 
 ```bash
-cd image-encryption-tool
+cd PRODIGY_CS_02
 ```
 
 ### Install required packages:
