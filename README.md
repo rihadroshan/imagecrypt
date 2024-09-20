@@ -2,7 +2,7 @@
  
 **ImageCrypt** is a Python program that allows you to encrypt and decrypt images using a simple XOR-based pixel manipulation technique. This tool provides a basic form of image encryption by applying a bitwise XOR operation to the pixel values of an image.
 
-## Usage
+## Usage 
 
 - **Encryption**: To encrypt an image, each pixel's value is XORed with a specified key, resulting in an encrypted image.
 - **Decryption**: To decrypt an image, the encrypted image is processed again with the same key, restoring the original pixel values.
