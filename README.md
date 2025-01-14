@@ -17,7 +17,7 @@
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/rihadroshan/PRODIGY_CS_02.git
+git clone https://github.com/rihadroshan/ImageCrypt.git
 ```
 
 ### Navigate into the project directory:
