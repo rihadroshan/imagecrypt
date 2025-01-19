@@ -23,7 +23,7 @@ git clone https://github.com/rihadroshan/ImageCrypt.git
 ### Navigate into the project directory:
 
 ```bash
-cd PRODIGY_CS_02
+cd ImageCrypt
 ```
 
 ### Install required packages:
