@@ -1,5 +1,3 @@
-ed pixel manipulation technique. This tool provides a basic form of image encryption by applying a bitwise XOR operation to the pixel values of an image.
-
 ## Usage 
 
 - **Encryption**: To encrypt an image, each pixel's value is XORed with a specified key, resulting in an encrypted image.
