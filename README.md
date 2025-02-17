@@ -16,12 +16,7 @@
 
 ```bash
 git clone https://github.com/rihadroshan/imagecrypt.git
-```
-
-### Navigate into the project directory:
-
-```bash
-cd ImageCrypt
+cd imagecrypt
 ```
 
 ### Install required packages:
