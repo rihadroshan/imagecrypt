@@ -50,6 +50,6 @@ Please enter the path where the output image will be saved: encrypted_img.png
 The image has been encrypted and saved to encrypted_img.png.
 ```
 
-## Notes
+## Note
 
 - **Educational Purpose**: This tool is for educational purposes only and should not be used for securing sensitive data, as the XOR method is not cryptographically secure.
