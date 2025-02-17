@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### Run the program:
 
 ```bash
-python3 ImageCrypt.py
+python3 imagecrypt.py
 ```
 
 ### Follow the prompts to encrypt or decrypt an image.
