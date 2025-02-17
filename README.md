@@ -15,7 +15,7 @@
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/rihadroshan/ImageCrypt.git
+git clone https://github.com/rihadroshan/imagecrypt.git
 ```
 
 ### Navigate into the project directory:
